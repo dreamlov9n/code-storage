@@ -12,4 +12,4 @@ Arch Linux
 
 ''' yay -S python python-pip customtkinter '''
 
-OR you can just 
+OR you can just run the executables i built
