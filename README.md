@@ -1,15 +1,4 @@
-This is my collection of code.
+# This is my collection of code.
+### I decided to not procrastinate and actually do something useful (?) in my life. So here it is.
 
-please do not look at it. it is bad. really bad.
-
-the only reason why this is here is because i distrohop too much so i chose to save all my code on github.
-please dont bully me.
-
-
-Dependencies (for running scripts directly):
-
-Arch Linux
-
-''' yay -S python python-pip customtkinter '''
-
-OR you can just run the executables i built
+### My journey is mainly just C. But I have some python code too from the school days.
